@@ -1,5 +1,6 @@
 # Hydrology_ANN_SD2SWE
 ## Codes for the Article 'Using an ensemble of artificial neural networks to convert snow depth to snow water equivalent over Canada'
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4276414.svg)](https://doi.org/10.5281/zenodo.4276414)
 
 00_Overview.pdf depicts the relationships between the python scripts. In the filder 00_saved_variables are some small sample data sets to facilitate the understanding of the codes. Furthermore, a Jupyter Notebook is provided in this folder as well, which coveres the same codes as explained in 00_Overview.pdf with a few explanations.
 
